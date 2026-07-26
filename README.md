@@ -551,7 +551,7 @@ Rather than simply generating text with an LLM, ClaimTracker focuses on **ground
 
 **Rahul Singh**
 
-Software Developer | Full-Stack Developer | AI & ML Enthusiast
+Software Developer | Full-Stack Developer | AI & ML Developer
 
 Interested in building scalable backend systems, intelligent applications, and production-ready software using modern technologies.
 
