@@ -1,0 +1,95 @@
+# =========================
+# FastAPI & Server
+# =========================
+fastapi
+uvicorn[standard]
+python-multipart
+
+# =========================
+# Configuration & Validation
+# =========================
+python-dotenv
+pydantic
+pydantic-settings
+
+# =========================
+# Database
+# =========================
+sqlalchemy
+psycopg2-binary
+alembic
+
+# =========================
+# Authentication & Security
+# =========================
+python-jose[cryptography]
+passlib[bcrypt]
+
+# =========================
+# PDF Processing
+# =========================
+pymupdf
+pypdf
+
+# =========================
+# OCR - Scanned Documents
+# =========================
+pytesseract
+Pillow
+
+# =========================
+# RAG & LangChain
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# =========================
+# Vector Database
+# =========================
+qdrant-client
+
+# =========================
+# Embeddings
+# =========================
+sentence-transformers
+
+# =========================
+# LLM - Ollama (Local Development)
+# =========================
+langchain-ollama
+
+# =========================
+# HTTP Client
+# =========================
+httpx
+requests
+
+# =========================
+# Redis
+# =========================
+redis
+
+# =========================
+# Background Tasks / Async
+# =========================
+celery
+
+# =========================
+# Testing
+# =========================
+pytest
+pytest-asyncio
+httpx
+
+# =========================
+# Code Quality
+# =========================
+black
+ruff
+
+# =========================
+# Monitoring / Logging
+# =========================
+structlog
